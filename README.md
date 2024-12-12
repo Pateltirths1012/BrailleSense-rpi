@@ -1,4 +1,4 @@
-## Raspberry Pi 4 BrailleSense Project Setup (README.md)
+## Raspberry Pi 4 BrailleSense Project Setup 
 
 This guide outlines setting up a virtual environment for your Raspberry Pi 4 camera project, considering two approaches:
 
